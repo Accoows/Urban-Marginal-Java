@@ -48,4 +48,4 @@ cd urban-marginal
 Urban Marginal est un projet réalisé en **équipe** dans le cadre de la formation chez **Ynov Campus**.  
 Voici les personnes ayant contribué au développement du jeu :  
 
-**Fabien Ori**, **Juliette Campello**, **Sara Smith**, **Denilson Dumery**, **Arthur Gonzalès**
+**Fabien Ori** // **Juliette Campello** // **Sara Smith** // **Denilson Dumery** // **Arthur Gonzalès**
