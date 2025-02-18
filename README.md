@@ -43,6 +43,8 @@ git clone https://github.com/tonpseudo/urban-marginal.git
 cd urban-marginal
 ```
 
+---
+
 ## 🤝 Collaboration et contributeurs
 
 Urban Marginal est un projet réalisé en **équipe** dans le cadre de la formation chez **Ynov Campus**.  
